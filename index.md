@@ -28,6 +28,8 @@ Syntax highlighted code block
 ![snip_net.PNG](snip_net.PNG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<video src="video_test.mp4" width="320" height="200" controls preload></video>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s153242/Badminton_Few_shot_learning.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
