@@ -41,9 +41,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     </p>
 </details>
 
-![video_gif](video_test.gif)
+![video_gif](video_test.gif | width=200)
 
-![video_gif](video_test.gif) and ![video_gif](video_test.gif)
+![video_gif](video_test.gif | width=200 | height=200) and ![video_gif](video_test.gif)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s153242/Badminton_Few_shot_learning.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
