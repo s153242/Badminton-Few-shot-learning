@@ -41,7 +41,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     </p>
 </details>
 
-![video_gif](video_test.gif | width=200)
+![video_gif](video_test.gif =200x200)
 
 ![video_gif](video_test.gif | width=200 | height=200) and ![video_gif](video_test.gif)
 ### Jekyll Themes
