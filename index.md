@@ -49,6 +49,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   <img src="video_test.gif" width="100" height="100"/>
 </p>
 
+<p float="left">
+  <video src="video_test.mp4" width="100" height="100" controls preload></video>
+  <video src="video_test.mp4" width="100" height="100" controls preload></video>
+  <video src="video_test.mp4" width="100" height="100" controls preload></video>
+</p>
+
 
 ![video_gif](video_test.gif)
 ### Jekyll Themes
