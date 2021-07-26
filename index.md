@@ -28,7 +28,9 @@ Syntax highlighted code block
 ![snip_net.PNG](snip_net.PNG) and ![snip_net.PNG](snip_net.PNG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<video src="video_test.mp4" width="320" height="200" controls preload></video> and <video src="video_test.mp4" width="320" height="200" controls preload></video>
+<video src="video_test.mp4" width="320" height="200" controls preload></video> and 
+
+<video src="video_test.mp4" width="320" height="200" controls preload></video>
 
 ### Jekyll Themes
 
