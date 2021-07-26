@@ -50,9 +50,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 </p>
 
 <p float="left">
-  <video src="video_test.mp4" width="100" height="100" controls preload></video>
-  <video src="video_test.mp4" width="100" height="100" controls preload></video>
-  <video src="video_test.mp4" width="100" height="100" controls preload></video>
+  <video src="video_test.mp4" width="250" height="250" controls preload></video>
+  <video src="video_test.mp4" width="250" height="250" controls preload></video>
+  <video src="video_test.mp4" width="250" height="250" controls preload></video>
 </p>
 
 
