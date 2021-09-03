@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages Trying to change this
+## Welcome to my website
+### This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification
 
 You can use the [editor on GitHub](https://github.com/s153242/Badminton_Few_shot_learning.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
