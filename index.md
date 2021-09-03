@@ -3,8 +3,10 @@ This website seeks to stand as support to my thesis Few-Shot Action Recognition 
 
 ## Data Presentation
 
-## Video Crop Types
+### Video Crop Types
+In the thesis I seek to investigate two different video crop types: Half-field crop and Player-crop. 
 
+#### test
 
 
 
