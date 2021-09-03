@@ -1,5 +1,5 @@
 ## Welcome to my website
-This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification. On the website I will show different data examples and model results. 
+This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification. On the website I will show different data examples and model results. It should be seen as a tool for better visualizing the findigs as presenting video data in a paper information can quickly be lost.
 
 ### Markdown
 
