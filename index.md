@@ -1,22 +1,12 @@
 ## Welcome to my website
 This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification. On the website I will show different data examples and model results. It should be seen as a tool for better visualizing the findigs as presenting video data in a paper information can quickly be lost.
 
-### Markdown
+## Data Presentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Video Crop Types
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
