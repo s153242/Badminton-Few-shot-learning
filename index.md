@@ -3,7 +3,7 @@ This website seeks to stand as support to my thesis Few-Shot Action Recognition 
 
 ## Data Presentation
 
-### Video Crop Types
+## Video Crop Types
 
 
 
