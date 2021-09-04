@@ -3,13 +3,30 @@ This website seeks to stand as support to my thesis Few-Shot Action Recognition 
 
 ## Data Presentation
 
-I will give a quick overview of the data content used in this work. I annotated three different matches. A short clip from each match is presented below
+I will give a quick overview of the data content used in this work. I annotated three different matches. A short clip from each match is presented below in the order: match 1 (Axelsen vs Chen), match 2 (Chen vs Axelsen), match 3 (Nishimito vs Vincent)
 
 <p float="left">
+  
+  <video src="Axel_Chen_clip_14_7.mp4" width="250" height="250" controls preload></video>
   <video src="Chen_video_1_clip.mp4" width="250" height="250" controls preload></video>
   <video src="nish_vinc_point_1.mp4" width="250" height="250" controls preload></video>
-  <video src="video_test.mp4" width="250" height="250" controls preload></video>
+  
 </p>
+
+I then look to present some of the data clips used for each video crop type
+
+## Half-video Crop
+### Smash:
+
+### Net:
+
+### Lop:
+
+### Backhand:
+
+### Serve:
+
+## Half-video Crop
 
 ### Video Crop Types
 In the thesis I seek to investigate two different video crop types: Half-field crop and Player-crop. 
