@@ -24,7 +24,8 @@ In the thesis I seek to investigate two different video crop types: Half-field c
 
 ### without
 <video src="Chen_Axel_9_7_1_without.mp4" width="320" height="200" controls preload></video>
-
+### With
+<video src="Chen_Axel_9_7_1_with.mp4" width="320" height="200" controls preload></video>
 
 ### Nish Vinc 3_2
 ### With
