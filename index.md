@@ -68,14 +68,8 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
   <video src="se2.mp4" width="250" height="250" controls preload></video>
 </p>
 
-### Video Crop Types
-In the thesis I seek to investigate two different video crop types: Half-field crop and Player-crop. 
-
-#### Half-field crop
-
-
-
-## Results
+# Results
+As mentioned in the report, my approach randomly samples a new test set for each run the model perform. For validating the model on a game setup the results thus changes. Some show really good results and other runs do not. Down below I have shown different model results for the validation on the game setup. 
 
 ### Chen Axel 9_7 
 
