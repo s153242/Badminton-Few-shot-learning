@@ -7,7 +7,7 @@ I will give a quick overview of the data content used in this work. I annotated 
 
 <p float="left">
   <video src="Chen_video_1_clip.mp4" width="250" height="250" controls preload></video>
-  <video src="HS-Antonsen vs Lu .mp4" width="250" height="250" controls preload></video>
+  <video src="nish_vinc_point_1.mp4" width="250" height="250" controls preload></video>
   <video src="video_test.mp4" width="250" height="250" controls preload></video>
 </p>
 
