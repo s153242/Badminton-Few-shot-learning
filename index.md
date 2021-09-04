@@ -16,15 +16,14 @@ I will give a quick overview of the data content used in this work. I annotated 
 I then look to present some of the data clips used for each video crop type
 
 ## Half-video Crop
-### Smash:
-
+#### Smash:
 <p float="left">
   <video src="smash_left1.mp4" width="250" height="250" controls preload></video>
   <video src="smash_left2.mp4" width="250" height="250" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="250" controls preload></video>
 </p>
 
-### Net:
+#### Net:
 <p float="left">
   <video src="net_left1.mp4" width="250" height="250" controls preload></video>
   <video src="net_left2.mp4" width="250" height="250" controls preload></video>
