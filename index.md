@@ -21,12 +21,11 @@ Smash
 <p float="left">
   SMASH
   <video src="smash_left1.mp4" width="250" height="200" controls preload></video>
-  <video src="smash_left2.mp4" width="250" height="200" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="200" controls preload></video>
 </p>
 
-**Net**
 <p float="left">
+  NET
   <video src="net_left1.mp4" width="250" height="250" controls preload></video>
   <video src="net_left2.mp4" width="250" height="250" controls preload></video>
   <video src="net_right1.mp4" width="250" height="250" controls preload></video>
