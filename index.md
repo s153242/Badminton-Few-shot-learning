@@ -18,6 +18,13 @@ I then look to present some of the data clips used for each video crop type
 ## Half-video Crop
 ### Smash:
 
+<p float="left">
+  <video src="smash_left1.mp4" width="250" height="250" controls preload></video>
+  <video src="smash_left2.mp4" width="250" height="250" controls preload></video>
+  <video src="smash_right1.mp4" width="250" height="250" controls preload></video>
+  <video src="smash_right2.mp4" width="250" height="250" controls preload></video>
+</p>
+
 ### Net:
 <p float="left">
  
@@ -27,10 +34,27 @@ I then look to present some of the data clips used for each video crop type
   <video src="net_right2.mp4" width="250" height="250" controls preload></video>
 </p>
 ### Lop:
-
+<p float="left">
+  <video src="lop_left1.mp4" width="250" height="250" controls preload></video>
+  <video src="lop_left2.mp4" width="250" height="250" controls preload></video>
+  <video src="lop_right1.mp4" width="250" height="250" controls preload></video>
+  <video src="lop_right2.mp4" width="250" height="250" controls preload></video>
+</p>
 ### Backhand:
-
+<p float="left">
+  <video src="backhand1.mp4" width="250" height="250" controls preload></video>
+  <video src="backhand2.mp4" width="250" height="250" controls preload></video>
+  <video src="backhand3.mp4" width="250" height="250" controls preload></video>
+  <video src="backhand4.mp4" width="250" height="250" controls preload></video>
+</p>
 ### Serve:
+
+<p float="left">
+  <video src="serve1.mp4" width="250" height="250" controls preload></video>
+  <video src="serve2.mp4" width="250" height="250" controls preload></video>
+  <video src="serve3.mp4" width="250" height="250" controls preload></video>
+  <video src="serve4.mp4" width="250" height="250" controls preload></video>
+</p>
 
 ## Half-video Crop
 
