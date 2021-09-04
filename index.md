@@ -29,7 +29,6 @@ In the thesis I seek to investigate two different video crop types: Half-field c
 </p>
 
 ### With
-<video src="Chen_Axel_9_7_1_with.mp4" width="320" height="200" controls preload></video>
 
 <p float="left">
   <video src="Chen_Axel_9_7_1_with.mp4" width="320" height="200" controls preload></video>
