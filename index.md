@@ -17,7 +17,9 @@ I then look to present some of the data clips used for each video crop type
 
 ## Half-video Crop
 **Smash**
+Smash
 <p float="left">
+  SMASH
   <video src="smash_left1.mp4" width="250" height="200" controls preload></video>
   <video src="smash_left2.mp4" width="250" height="200" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="200" controls preload></video>
