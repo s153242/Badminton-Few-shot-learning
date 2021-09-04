@@ -30,6 +30,8 @@ In the thesis I seek to investigate two different video crop types: Half-field c
 ### Nish Vinc 3_2
 ### With
 <video src="Nish_Vinc_3_2_with.mp4" width="320" height="200" controls preload></video>
+### Without
+<video src="Nish_Vinc_3_2_1_without.mp4" width="320" height="200" controls preload></video>
 
 
 **Bold** and _Italic_ and `Code` text
