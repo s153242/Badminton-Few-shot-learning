@@ -12,8 +12,7 @@ I will give a quick overview of the data content used in this work. I annotated 
   <video src="nish_vinc_point_1.mp4" width="250" height="250" controls preload></video>
   
 </p>
-
-I then look to present some of the data clips used for each video crop type
+In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand and serve divided into eight categories due to differentiating left and right movement of Lop, Net and smash.  In addition, this work test two different video crop types: Half-field crop and Player-crop. Down below is shown two data samples for each shot type for both video crop types.
 
 ## Half-video Crop
 <p float="left">
@@ -42,6 +41,32 @@ I then look to present some of the data clips used for each video crop type
   <video src="serve3.mp4" width="250" height="250" controls preload></video>
 </p>
 
+## Player-Crop
+<p float="left">
+  **SMASH: **
+  <video src="ss1.mp4" width="250" height="200" controls preload></video>
+  <video src="ss2.mp4" width="250" height="200" controls preload></video>
+</p>
+<p float="left">
+  **NET: **
+  <video src="nn1.mp4" width="250" height="250" controls preload></video>
+  <video src="nn2.mp4" width="250" height="250" controls preload></video>
+</p>
+<p float="left">
+  **Lop: **
+  <video src="ll1.mp4" width="250" height="250" controls preload></video>
+  <video src="ll2.mp4" width="250" height="250" controls preload></video>
+</p>
+<p float="left">
+  **Backhand: **
+  <video src="bb1.mp4" width="250" height="250" controls preload></video>
+  <video src="bb2.mp4" width="250" height="250" controls preload></video>
+</p>
+<p float="left">
+  **Serve: **
+  <video src="se1.mp4" width="250" height="250" controls preload></video>
+  <video src="se2.mp4" width="250" height="250" controls preload></video>
+</p>
 
 ### Video Crop Types
 In the thesis I seek to investigate two different video crop types: Half-field crop and Player-crop. 
