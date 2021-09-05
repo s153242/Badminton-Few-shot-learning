@@ -26,17 +26,17 @@ Half-court crop extracts the side of the court the player modeled is on. In my c
   <video src="net_right1.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Lop: **
+  <summary>Lop</summary>
   <video src="lop_left1.mp4" width="250" height="250" controls preload></video>
   <video src="lop_right1.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Backhand: **
+  <summary>Backhand</summary>
   <video src="backhand1.mp4" width="250" height="250" controls preload></video>
   <video src="backhand3.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Serve: **
+  <summary>Serve</summary>
   <video src="serve1.mp4" width="250" height="250" controls preload></video>
   <video src="serve3.mp4" width="250" height="250" controls preload></video>
 </p>
@@ -44,27 +44,27 @@ Half-court crop extracts the side of the court the player modeled is on. In my c
 ## Player-Crop
 The player-crop type centers the frame on the player in the beginning of the clip and stays in that space throughout the video. This way you will get the motion of the player out from the center of the frame. It is a closer zoom compared to half-video crop.
 <p float="left">
-  **SMASH: **
+  <summary>Smash</summary>
   <video src="ss1.mp4" width="250" height="200" controls preload></video>
   <video src="ss2.mp4" width="250" height="200" controls preload></video>
 </p>
 <p float="left">
-  **NET: **
+  <summary>Net</summary>
   <video src="nn1.mp4" width="250" height="250" controls preload></video>
   <video src="nn2.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Lop: **
+  <summary>Lop</summary>
   <video src="ll1.mp4" width="250" height="250" controls preload></video>
   <video src="ll2.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Backhand: **
+  <summary>Backhand</summary>
   <video src="bb1.mp4" width="250" height="250" controls preload></video>
   <video src="bb2.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  **Serve: **
+  <summary>Serve</summary>
   <video src="se1.mp4" width="250" height="250" controls preload></video>
   <video src="se2.mp4" width="250" height="250" controls preload></video>
 </p>
