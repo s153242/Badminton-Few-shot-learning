@@ -69,7 +69,7 @@ The player-crop type centers the frame on the player in the beginning of the cli
   <video src="se2.mp4" width="300" height="200" controls preload></video>
 </p>
 
-# Results - Model-validation Game Setup
+# Results - Model-Validation on a Game Scenario
 Down below I show the videos of the game-validation examples shown in the report. All results are extracted using the two-stream++ approach either with or without fine-tuned features.  
 
 ## Match 1 Viktor Axelsen vs. Chen Long, point 8-6
