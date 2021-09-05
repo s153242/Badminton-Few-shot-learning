@@ -17,56 +17,56 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
 Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
 <p>
   <summary>Smash</summary>
-  <video src="smash_left1.mp4" width="350" height="300" controls preload></video>
-  <video src="smash_right1.mp4" width="350" height="300" controls preload></video>
+  <video src="smash_left1.mp4" width="300" height="250" controls preload></video>
+  <video src="smash_right1.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Net</summary>
-  <video src="net_left1.mp4" width="250" height="250" controls preload></video>
-  <video src="net_right1.mp4" width="250" height="250" controls preload></video>
+  <video src="net_left1.mp4" width="300" height="250" controls preload></video>
+  <video src="net_right1.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Lop</summary>
-  <video src="lop_left1.mp4" width="250" height="250" controls preload></video>
-  <video src="lop_right1.mp4" width="250" height="250" controls preload></video>
+  <video src="lop_left1.mp4" width="300" height="250" controls preload></video>
+  <video src="lop_right1.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Backhand</summary>
-  <video src="backhand1.mp4" width="250" height="250" controls preload></video>
-  <video src="backhand3.mp4" width="250" height="250" controls preload></video>
+  <video src="backhand1.mp4" width="300" height="250" controls preload></video>
+  <video src="backhand3.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Serve</summary>
-  <video src="serve1.mp4" width="250" height="250" controls preload></video>
-  <video src="serve3.mp4" width="250" height="250" controls preload></video>
+  <video src="serve1.mp4" width="300" height="250" controls preload></video>
+  <video src="serve3.mp4" width="300" height="250" controls preload></video>
 </p>
 
 ## Player-Crop
 The player-crop type centers the frame on the player in the beginning of the clip and stays in that space throughout the video. This way you will get the motion of the player out from the center of the frame. It is a closer zoom compared to half-video crop.
 <p float="left">
   <summary>Smash</summary>
-  <video src="ss1.mp4" width="250" height="200" controls preload></video>
-  <video src="ss2.mp4" width="250" height="200" controls preload></video>
+  <video src="ss1.mp4" width="300" height="200" controls preload></video>
+  <video src="ss2.mp4" width="300" height="200" controls preload></video>
 </p>
 <p float="left">
   <summary>Net</summary>
-  <video src="nn1.mp4" width="250" height="250" controls preload></video>
-  <video src="nn2.mp4" width="250" height="250" controls preload></video>
+  <video src="nn1.mp4" width="300" height="250" controls preload></video>
+  <video src="nn2.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Lop</summary>
-  <video src="ll1.mp4" width="250" height="250" controls preload></video>
-  <video src="ll2.mp4" width="250" height="250" controls preload></video>
+  <video src="ll1.mp4" width="300" height="250" controls preload></video>
+  <video src="ll2.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Backhand</summary>
-  <video src="bb1.mp4" width="250" height="250" controls preload></video>
-  <video src="bb2.mp4" width="250" height="250" controls preload></video>
+  <video src="bb1.mp4" width="300" height="250" controls preload></video>
+  <video src="bb2.mp4" width="300" height="250" controls preload></video>
 </p>
 <p float="left">
   <summary>Serve</summary>
-  <video src="se1.mp4" width="250" height="250" controls preload></video>
-  <video src="se2.mp4" width="250" height="250" controls preload></video>
+  <video src="se1.mp4" width="300" height="250" controls preload></video>
+  <video src="se2.mp4" width="300" height="250" controls preload></video>
 </p>
 
 # Results
