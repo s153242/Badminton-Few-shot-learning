@@ -1,4 +1,4 @@
-## Welcome to my website
+# Few-Shot Action Recognition for Badminton Stroke Classification
 This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification. On the website I will show different data examples and model results. It should be seen as a tool for better visualizing the findigs as presenting video data in a paper information can quickly be lost.
 
 ## Data Presentation
@@ -6,7 +6,6 @@ This website seeks to stand as support to my thesis Few-Shot Action Recognition 
 I will give a quick overview of the data content used in this work. I annotated three different matches. A short clip from each match is presented below in the order: match 1 (Axelsen vs Chen), match 2 (Chen vs Axelsen), match 3 (Nishimito vs Vincent)
 
 <p float="left">
-  
   <video src="Axel_Chen_clip_14_7.mp4" width="250" height="250" controls preload></video>
   <video src="Chen_video_1_clip.mp4" width="250" height="250" controls preload></video>
   <video src="nish_vinc_point_1.mp4" width="250" height="250" controls preload></video>
@@ -16,8 +15,10 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
 
 ## Half-court Crop
 Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
+
 **Smash**
 <p>
+  <summary>Smash</summary>
   <video src="smash_left1.mp4" width="250" height="200" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="200" controls preload></video>
 </p>
@@ -112,6 +113,7 @@ As mentioned in the report, my approach randomly samples a new test set for each
 [Link](url) and ![Image](src)
 ```
 ![snip_net.PNG](snip_net.PNG) and ![snip_net.PNG](snip_net.PNG)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <video src="video_test.mp4" width="320" height="200" controls preload></video> and 
