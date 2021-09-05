@@ -16,12 +16,12 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
 ## Half-court Crop
 Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
 <p>
-  <summary>**Smash**</summary>
+  <summary>Smash</summary>
   <video src="smash_left1.mp4" width="250" height="250" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="250" controls preload></video>
 </p>
 <p float="left">
-  <summary>**Net**</summary>
+  <summary>Net</summary>
   <video src="net_left1.mp4" width="250" height="250" controls preload></video>
   <video src="net_right1.mp4" width="250" height="250" controls preload></video>
 </p>
