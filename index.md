@@ -69,77 +69,33 @@ The player-crop type centers the frame on the player in the beginning of the cli
   <video src="se2.mp4" width="300" height="200" controls preload></video>
 </p>
 
-# Results
+# Results - Model-validation Game Setup
 Down below I show the videos of the game-validation examples shown in the report. All results are extracted using the two-stream++ approach either with or without fine-tuned features.  
 
-## Chen Axel 9_7 
+## Match 2 Chen Long vs. Viktor Axelsen, point: 9-7 
 
-### without Finetuning
+#### without Finetuning
 <p float="left">
   <video src="Chen_Axel_9_7_1_without.mp4" width="400" height="300" controls preload></video>
   <video src="Chen_Axel_9_7_2_without.mp4" width="400" height="300" controls preload></video>
 </p>
-
-### With Finetuning
-
+#### With Finetuning
 <p float="left">
   <video src="Chen_Axel_9_7_1_with.mp4" width="400" height="300" controls preload></video>
   <video src="Chen_Axel_9_7_2_with.mp4" width="400" height="300" controls preload></video>
 </p>
 
-### Nish Vinc 3_2
+## Match 3 Nishimoto vs. Vincent, point: 3-2
 
-### Without
+#### Without
 
 <p float="left">
   <video src="Nish_Vinc_3_2_1_without.mp4" width="400" height="300" controls preload></video>
   <video src="Nish_Vinc_3_2_2_without.mp4" width="400" height="300" controls preload></video>
 </p>
 
-### With
-
-
+#### With
 <p float="left">
   <video src="Nish_Vinc_3_2_with.mp4" width="400" height="300" controls preload></video>
   <video src="Nish_Vinc_3_2_2_with.mp4" width="400" height="300" controls preload></video>
 </p>
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-![snip_net.PNG](snip_net.PNG) and ![snip_net.PNG](snip_net.PNG)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-<video src="video_test.mp4" width="320" height="200" controls preload></video> and 
-
-<video src="video_test.mp4" width="320" height="200" controls preload></video>
-
-<details>
-    <summary>Minhas Estátisticas no Github</summary>
-    <p>
-        <video align="left" src="video_test.mp4" width="320" height="200" controls preload></video>
-                      
-        <video align="right" src="video_test.mp4" width="320" height="200" controls preload></video>
-    </p>
-</details>
-
-<img src="video_test.gif" width="100" height="100">
-
-<p float="left">
-  <img src="video_test.gif" width="100" height="100"/>
-  <img src="video_test.gif" width="100" height="100"/>
-  <img src="video_test.gif" width="100" height="100"/>
-</p>
-
-<p float="left">
-  <video src="video_test.mp4" width="250" height="250" controls preload></video>
-  <video src="video_test.mp4" width="250" height="250" controls preload></video>
-  <video src="video_test.mp4" width="250" height="250" controls preload></video>
-</p>
-
-
-![video_gif](video_test.gif)
