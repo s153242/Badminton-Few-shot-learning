@@ -17,6 +17,14 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
 Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
 
 **Smash**
+
+<details>
+    <summary>Minhas Estátisticas no Github</summary>
+    <p>
+        <video align="left" src="smash_left1.mp4" width="320" height="200" controls preload></video>                  
+        <video align="right" src="smash_left1.mp4" width="320" height="200" controls preload></video>
+    </p>
+</details>
 <p>
   <summary>Smash</summary>
   <video src="smash_left1.mp4" width="250" height="200" controls preload></video>
@@ -145,10 +153,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ![video_gif](video_test.gif)
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s153242/Badminton_Few_shot_learning.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
