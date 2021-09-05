@@ -70,21 +70,21 @@ The player-crop type centers the frame on the player in the beginning of the cli
 </p>
 
 # Results
-As mentioned in the report, my approach randomly samples a new test set for each run the model perform. For validating the model on a game setup the results thus changes. Some show really good results and other runs do not. Down below I have shown different model results for the validation on the game setup. 
+Down below I show the videos of the game-validation examples shown in the report. All results are extracted using the two-stream++ approach either with or without fine-tuned features.  
 
-### Chen Axel 9_7 
+## Chen Axel 9_7 
 
-### without
+### without Finetuning
 <p float="left">
-  <video src="Chen_Axel_9_7_1_without.mp4" width="320" height="200" controls preload></video>
-  <video src="Chen_Axel_9_7_2_without.mp4" width="320" height="200" controls preload></video>
+  <video src="Chen_Axel_9_7_1_without.mp4" width="400" height="300" controls preload></video>
+  <video src="Chen_Axel_9_7_2_without.mp4" width="400" height="300" controls preload></video>
 </p>
 
-### With
+### With Finetuning
 
 <p float="left">
-  <video src="Chen_Axel_9_7_1_with.mp4" width="320" height="200" controls preload></video>
-  <video src="Chen_Axel_9_7_2_with.mp4" width="320" height="200" controls preload></video>
+  <video src="Chen_Axel_9_7_1_with.mp4" width="400" height="300" controls preload></video>
+  <video src="Chen_Axel_9_7_2_with.mp4" width="400" height="300" controls preload></video>
 </p>
 
 ### Nish Vinc 3_2
@@ -92,16 +92,16 @@ As mentioned in the report, my approach randomly samples a new test set for each
 ### Without
 
 <p float="left">
-  <video src="Nish_Vinc_3_2_1_without.mp4" width="320" height="200" controls preload></video>
-  <video src="Nish_Vinc_3_2_2_without.mp4" width="320" height="200" controls preload></video>
+  <video src="Nish_Vinc_3_2_1_without.mp4" width="400" height="300" controls preload></video>
+  <video src="Nish_Vinc_3_2_2_without.mp4" width="400" height="300" controls preload></video>
 </p>
 
 ### With
 
 
 <p float="left">
-  <video src="Nish_Vinc_3_2_with.mp4" width="320" height="200" controls preload></video>
-  <video src="Nish_Vinc_3_2_2_with.mp4" width="320" height="200" controls preload></video>
+  <video src="Nish_Vinc_3_2_with.mp4" width="400" height="300" controls preload></video>
+  <video src="Nish_Vinc_3_2_2_with.mp4" width="400" height="300" controls preload></video>
 </p>
 
 
