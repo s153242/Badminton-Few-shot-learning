@@ -14,9 +14,10 @@ I will give a quick overview of the data content used in this work. I annotated 
 </p>
 In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand and serve divided into eight categories due to differentiating left and right movement of Lop, Net and smash.  In addition, this work test two different video crop types: Half-field crop and Player-crop. Down below is shown two data samples for each shot type for both video crop types.
 
-## Half-video Crop
-<p float="left">
-  **SMASH: **
+## Half-court Crop
+Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
+**Smash**
+<p>
   <video src="smash_left1.mp4" width="250" height="200" controls preload></video>
   <video src="smash_right1.mp4" width="250" height="200" controls preload></video>
 </p>
@@ -42,6 +43,7 @@ In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand 
 </p>
 
 ## Player-Crop
+The player-crop type centers the frame on the player in the beginning of the clip and stays in that space throughout the video. This way you will get the motion of the player out from the center of the frame. It is a closer zoom compared to half-video crop.
 <p float="left">
   **SMASH: **
   <video src="ss1.mp4" width="250" height="200" controls preload></video>
