@@ -72,9 +72,20 @@ The player-crop type centers the frame on the player in the beginning of the cli
 # Results - Model-validation Game Setup
 Down below I show the videos of the game-validation examples shown in the report. All results are extracted using the two-stream++ approach either with or without fine-tuned features.  
 
+## Match 1 Viktor Axelsen vs. Chen Long, point 8-6
+#### Without Finetuning
+<p float="left">
+  <video src="Axel_Chen_8_6_without.mp4" width="400" height="300" controls preload></video>
+</p>
+#### With Finetuning
+<p float="left">
+  <video src="Axel_Chen_8_6_with.mp4" width="400" height="300" controls preload></video>
+  <video src="Axel_Chen_8_6_2_with.mp4" width="400" height="300" controls preload></video>
+</p>
+
 ## Match 2 Chen Long vs. Viktor Axelsen, point: 9-7 
 
-#### without Finetuning
+#### Without Finetuning
 <p float="left">
   <video src="Chen_Axel_9_7_1_without.mp4" width="400" height="300" controls preload></video>
   <video src="Chen_Axel_9_7_2_without.mp4" width="400" height="300" controls preload></video>
@@ -87,14 +98,14 @@ Down below I show the videos of the game-validation examples shown in the report
 
 ## Match 3 Nishimoto vs. Vincent, point: 3-2
 
-#### Without
+#### Without Finetuning
 
 <p float="left">
   <video src="Nish_Vinc_3_2_1_without.mp4" width="400" height="300" controls preload></video>
   <video src="Nish_Vinc_3_2_2_without.mp4" width="400" height="300" controls preload></video>
 </p>
 
-#### With
+#### With Finetuning
 <p float="left">
   <video src="Nish_Vinc_3_2_with.mp4" width="400" height="300" controls preload></video>
   <video src="Nish_Vinc_3_2_2_with.mp4" width="400" height="300" controls preload></video>
