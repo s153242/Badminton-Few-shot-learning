@@ -1,5 +1,5 @@
 # Few-Shot Action Recognition for Badminton Stroke Classification
-This website seeks to stand as support to my thesis Few-Shot Action Recognition for BadmintonStroke Classification. On the website I will show different data examples and model results. It should be seen as a tool for better visualizing the findigs as presenting video data in a paper information can quickly be lost.
+This website seeks to stand as support to my thesis "Few-Shot Action Recognition for Badminton Stroke Classification". On the website I will show different data examples and results from model-validation on the game setup. It should be seen as a tool for better visualizing the findigs as presenting video data in a paper information quickly can be lost.
 
 ## Data Presentation
 
@@ -11,7 +11,7 @@ I will give a quick overview of the data content used in this work. I annotated 
   <video src="nish_vinc_point_1.mp4" width="250" height="250" controls preload></video>
   
 </p>
-In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand and serve divided into eight categories due to differentiating left and right movement of Lop, Net and smash.  In addition, this work test two different video crop types: Half-field crop and Player-crop. Down below is shown two data samples for each shot type for both video crop types.
+In this work I distinguish between five stroke types: Smash, Net, Lop, Backhand and Serve divided into eight categories due to differentiating left and right movement of Lop, Net and Smash.  In addition, this work test two different video crop types: Half-field crop and Player-crop. Down below is shown two data samples for each shot type for both video crop types.
 
 ## Half-court Crop
 Half-court crop extracts the side of the court the player modeled is on. In my case it is always the player closest to the camera to simplify the problem. 
